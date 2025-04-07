@@ -3,9 +3,11 @@
 OpenCVのdnn_superresモジュールでの実装例です。<br>
 ネットで配布されている学習済みファイルも添付しています。<br>
 <p></p>
-CMAKE_Sampleは、CMakeプロジェクトの書き方のサンプルとして残しています。
-
-
+CMAKE_Sampleは、CMakeプロジェクトの書き方のサンプルとして残しています。<br>
+<p></p>
+主にvcpkgでCMakeを使う方法のサンプルです。<br>
+Windowsの開発では、Visual Studioのプロジェクトで開発して、ある程度できてから、CMakeに移ったほうがいいかも？
+<p></p>
 ## オリジナル画像
 
 ![オリジナル画像](TrumpPortrait_Small.jpg)
