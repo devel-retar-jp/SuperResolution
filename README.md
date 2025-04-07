@@ -7,6 +7,17 @@ OpenCVのdnn_superresモジュールでの実装例です。<br>
 
 ![オリジナル画像](TrumpPortrait_Small.jpg)
 
+
+## 超解像化(LapSRN x2)
+
+![LapSRN x2](LapSRN_x2.jpg)
+
+
+## 超解像化(LapSRN x4)
+
+![LapSRN x4](LapSRN_x4.jpg)
+
+
 ## 超解像化(LapSRN x8)
 
 ![LapSRN x8](LapSRN_x8.jpg)
