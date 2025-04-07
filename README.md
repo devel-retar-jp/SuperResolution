@@ -8,6 +8,7 @@ CMAKE_Sampleは、CMakeプロジェクトの書き方のサンプルとして残
 主にvcpkgでCMakeを使う方法のサンプルです。<br>
 Windowsの開発では、Visual Studioのプロジェクトで開発して、ある程度できてから、CMakeに移ったほうがいいかも？
 <p></p>
+
 ## オリジナル画像
 
 ![オリジナル画像](TrumpPortrait_Small.jpg)
