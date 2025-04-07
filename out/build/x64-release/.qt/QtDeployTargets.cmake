@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_SuperResolution_FILE C:/Users/other/source/repos/_Test/SuperResolution/out/build/x64-release/SuperResolution/SuperResolution.exe)
+set(__QT_DEPLOY_TARGET_SuperResolution_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_SuperResolution_RUNTIME_DLLS )
