@@ -3,10 +3,10 @@
 OpenCVのdnn_superresモジュールでの実装例です。<br>
 ネットで配布されている学習済みファイルも添付しています。<br>
 
-##オリジナル画像
+## オリジナル画像
 
 ![オリジナル画像](TrumpPortrait_Small.jpg)
 
-##超解像化(LapSRN x8)
+## 超解像化(LapSRN x8)
 
 ![LapSRN x8](LapSRN_x8.jpg)
